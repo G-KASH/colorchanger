@@ -1,0 +1,26 @@
+🧾 Description:
+The Color Changer is a simple interactive web project that allows users to change the background color of a webpage or a specific element by clicking a button. It’s great for learning DOM manipulation and event handling in JavaScript.
+
+⚙️ Features:
+Changes the background color to a random color or predefined list.
+
+User interaction through a button click.
+
+Optional: Display the current color code (e.g., #FF5733 or rgb(255, 87, 51)).
+
+🛠 Technologies Used:
+HTML: For structuring the page and button.
+
+CSS: For styling the layout and text.
+
+JavaScript: For generating and applying colors dynamically.
+
+🚀 How It Works:
+User clicks the "Change Color" button.
+
+JavaScript generates a random color (hex or rgb).
+
+The color is applied to the page background (or another element).
+
+Optionally, the new color code is displayed on the screen.
+
